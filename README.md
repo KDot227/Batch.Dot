@@ -33,10 +33,10 @@
     <img src="images/damn_cover.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Batch.Dot</h3>
 
   <p align="center">
-    project_description
+    Batch r@t
     <br />
     <a href="https://github.com/KDot227/Batch.Dot"><strong>Explore the docs »</strong></a>
     <br />
